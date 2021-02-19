@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="txt_quantity">Quantity</string>
+    <string name="txt_zero">2</string>
+    <string name="txt_button">ORDER</string>
+    <string name="txt_summary">ORDER SUMMARY</string>
+    <string name="txt_total">$0</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="txt_toppings">Toppings</string>
+    <string name="txt_checkbox_whipped_cream">Whipped cream</string>
+    <string name="txt_checkbox_chocolate">Chocolate</string>
+    <string name="hint_name">Name</string>
+
+    <!-- JAVA Strings-->
+    <string name="jv_txt_name">Name: <xliff:g id="jv_var_name" example="Adan">%s</xliff:g></string>
+    <string name="jv_txt_add_whipped_cream">Add whipped cream?<xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="jv_txt_add_chocolate">Add chocolate?<xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="jv_txt_quantity">Quantity:<xliff:g id="quantity" example="true">%d</xliff:g></string>
+    <string name="jv_txt_total">Total:<xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="jv_txt_thank_you">Thank you</string>
+    <string name="order_summary_email_subject">Just Java order for:<xliff:g id="name" example="Adan">%s</xliff:g></string>
+</resources>
