@@ -78,27 +78,6 @@
                 android:text="@string/plus_sign" />
 
         </LinearLayout>
-
-        <!-- Local Summary
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:text="@string/txt_summary"
-            android:textAllCaps="true"
-            android:textSize="16sp" />
-
-        <TextView
-            android:id="@+id/order_summary_text_view"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginEnd="16dp"
-            android:text="@string/txt_total"
-            android:textSize="16sp"
-            android:textStyle="bold" />
-        -->
-
         <Button
             android:id="@+id/buttonUno"
             android:layout_width="wrap_content"
